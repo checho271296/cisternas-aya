@@ -19,3 +19,18 @@ Clone project: https://github.com/checho271296/cisternas-aya.git
  - cd cisternas-aya/
  - npm install
  - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
+## Git Instruccions
+
+Before starting to work.
+  
+  - git pull 
+  - git branch BranchName
+
+## Checks before creating a Pull Request
+
+- Branch zero commmits behind develop
+- git add .
+- git commit -m "commit message"
+- git push
